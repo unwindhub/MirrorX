@@ -6,7 +6,7 @@ class _BotCommands:
         self.TarMirrorCommand = 'tar'
         self.CancelMirror = 'cancel3'
         self.CancelAllCommand = 'cancelall'
-        self.ListCommand = 'list'
+        self.ListCommand = 'list2'
         self.SpeedCommand = 'speedtest'
         self.StatusCommand = 'megaytstatus'
         self.AuthorizeCommand = 'authorize'
